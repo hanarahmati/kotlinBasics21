@@ -1,6 +1,6 @@
 fun main() {
 
-    val stu = Student("Ali")
+    val stu = Student("Alice")
 
     stu.id
 
